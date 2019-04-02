@@ -4,3 +4,4 @@ This is a stage testcontent.
 test origin master.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Creating a new branch what is named dev.
